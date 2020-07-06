@@ -1,0 +1,11 @@
+C:\LEAP\WheelOfFortune\WheelOfFortune\bin\Debug\netcoreapp2.2\WheelOfFortune.deps.json
+C:\LEAP\WheelOfFortune\WheelOfFortune\bin\Debug\netcoreapp2.2\WheelOfFortune.runtimeconfig.json
+C:\LEAP\WheelOfFortune\WheelOfFortune\bin\Debug\netcoreapp2.2\WheelOfFortune.runtimeconfig.dev.json
+C:\LEAP\WheelOfFortune\WheelOfFortune\bin\Debug\netcoreapp2.2\WheelOfFortune.dll
+C:\LEAP\WheelOfFortune\WheelOfFortune\bin\Debug\netcoreapp2.2\WheelOfFortune.pdb
+C:\LEAP\WheelOfFortune\WheelOfFortune\obj\Debug\netcoreapp2.2\WheelOfFortune.csprojAssemblyReference.cache
+C:\LEAP\WheelOfFortune\WheelOfFortune\obj\Debug\netcoreapp2.2\WheelOfFortune.csproj.CoreCompileInputs.cache
+C:\LEAP\WheelOfFortune\WheelOfFortune\obj\Debug\netcoreapp2.2\WheelOfFortune.AssemblyInfoInputs.cache
+C:\LEAP\WheelOfFortune\WheelOfFortune\obj\Debug\netcoreapp2.2\WheelOfFortune.AssemblyInfo.cs
+C:\LEAP\WheelOfFortune\WheelOfFortune\obj\Debug\netcoreapp2.2\WheelOfFortune.dll
+C:\LEAP\WheelOfFortune\WheelOfFortune\obj\Debug\netcoreapp2.2\WheelOfFortune.pdb
